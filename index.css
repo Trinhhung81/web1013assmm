@@ -1,0 +1,28 @@
+body {
+    width: 1000px;
+    height: 400px;
+    margin: 5px auto;
+    border: 2px solid red;
+    margin-top: 40px;
+}
+
+video {
+    width: 800px;
+    margin: 3px;
+    height: 390px;
+    float: left;
+}
+
+img {
+    float: right;
+    width: 180px;
+    height: 122px;
+    margin: 5px;
+}
+
+.abc {
+    width: 800px;
+    margin: 3px;
+    height: 390px;
+    float: left;
+}
